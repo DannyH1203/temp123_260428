@@ -59,3 +59,5 @@ function printChristmasTree(height) {
 
 // 呼叫函式，印出高度為 5 層的聖誕樹
 printChristmasTree(5);
+
+printChristmasTree(7);
