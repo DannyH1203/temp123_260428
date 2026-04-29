@@ -64,3 +64,6 @@ function printChristmasTree(height) {
 printChristmasTree(5);
 
 printChristmasTree(7);
+
+printChristmasTree(100);
+printChristmasTree(120);
