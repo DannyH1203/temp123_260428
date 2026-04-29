@@ -21,6 +21,9 @@ function printChristmasTree(height) {
   // 若呼叫時沒有傳入 height，或傳入 undefined/0/null，則預設使用 8 層
   height = height || 8;
 
+
+
+
   // output 用來累積每一行的字串，最後一次性印出
   var output = "";
 
@@ -61,5 +64,3 @@ function printChristmasTree(height) {
 printChristmasTree(5);
 
 printChristmasTree(7);
-
-printChristmasTree(100);
